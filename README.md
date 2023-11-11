@@ -1,4 +1,4 @@
-# FRA3703 - Site web. / Bloggue
+# Bloggue
 
 # Template bootstrap utilisé
 
