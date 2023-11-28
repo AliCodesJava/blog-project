@@ -1,4 +1,4 @@
-# Bloggue
+# Bloggue - FRA 3703
 
 # Template bootstrap utilisé
 
@@ -8,4 +8,4 @@ Puis modifié à notre guise.
 
 # Lien vers le site web
 
-[Lien]().
+[Lien](https://alicodesjava.github.io/blog-project/theme/)
