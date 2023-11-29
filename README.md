@@ -8,4 +8,4 @@ Puis modifié à notre guise.
 
 # Lien vers le site web
 
-[Lien](https://alicodesjava.github.io/blog-project/theme/)
+[Lien](https://alicodesjava.github.io/blog-project/)
